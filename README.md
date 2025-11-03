@@ -14,7 +14,7 @@
      ```bash
      pnpm install
 
-4. Con docker abierto, ejecutar el siguiente comando
+4. Con Docker Desktop abierto, ejecutar el siguiente comando
      ```bash
     docker compose up -d     
 
