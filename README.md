@@ -1,5 +1,7 @@
 # Instrucciones para visualizar el proyecto (App de tareas Keepify)
-Las principales tecnologías usadas fueron Next JS, Material UI, Prisma, PostgreSQL y TypeScript
+
+Las principales tecnologías usadas fueron Next JS, Material UI, Prisma, PostgreSQL y TypeScript.
+
 **En WSL, ejecutar los siguientes comandos:**
 
 1. Clonar el repositorio:
