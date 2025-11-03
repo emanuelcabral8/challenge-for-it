@@ -27,6 +27,8 @@ Las principales tecnologías usadas fueron Next JS, Material UI, Prisma, Postgre
 6. Iniciar el servidor de desarrollo
     ```bash
     pnpm dev
+
+Se incluyen imágenes de la app funcionando junto a capturas de Postman para mostrar el estado de la base de datos
     
 ![](images/1.png)
 ![](images/2.png)
