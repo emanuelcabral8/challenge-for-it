@@ -35,7 +35,7 @@
 ![](images/7.png)
 ![](images/8.png)
 ![](images/9.png)
-** Se opta marcarla como completada y aparece en la ruta /completed**
+**Se opta marcarla como completada y aparece en la ruta /completed**
 ![](images/10.png)
     
 
